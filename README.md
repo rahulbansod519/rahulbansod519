@@ -7,7 +7,7 @@ _Open to new opportunities_
   <a href="mailto:rahulbansod519@gmail.com">
     <img src="https://img.shields.io/badge/email-rahulbansod519%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/rahulbansod519">
+  <a href="https://www.linkedin.com/in/rahulbansod/">
     <img src="https://img.shields.io/badge/LinkedIn-rahulbansod519-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/rahulbansod519">
