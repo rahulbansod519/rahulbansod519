@@ -92,3 +92,15 @@ I'm a **DevOps / Software Engineer** building production-grade tools for **Kuber
 *"Automate everything that can be automated. Secure everything that can be secured."*
 
 </div>
+
+
+## 🤝 Open Source Contributions
+
+| Status | Project | Contribution | Date |
+|--------|---------|-------------|------|
+| ✅ Merged | [kedro-org/kedro](https://github.com/kedro-org/kedro/pull/4637) | `fix(config)`: Support `Path` objects for `conf_source` in `ConfigLoaders` — fixed a long-standing type bug in a McKinsey/QuantumBlack Python MLOps framework | Apr 2025 |
+| 🟡 Open | [facebookincubator/Bowler](https://github.com/facebookincubator/Bowler/pull/164) | Handle exceptions in `filename_matcher` to prevent crashes in Facebook's Python code-refactoring tool | Jun 2025 |
+| 🟡 Open | [kubernetes/website](https://github.com/kubernetes/website/pull/51339) | `docs`: Document known issue with CRD scope changes and workaround in official Kubernetes docs (CNCF CLA signed) | Jun 2025 |
+| 🐛 Issue | [ray-project/ray](https://github.com/ray-project/ray/issues/52467) | Reported broken Bazel installation docs for Fedora/Red Hat in the Ray distributed computing project | Apr 2025 |
+
+---
