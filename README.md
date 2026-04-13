@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rahul Bansod
 
-### DevOps Engineer · Backend Developer · Kubernetes & Security Nerd
+### DevOps Engineer · Backend Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulbansod)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulbansod519@gmail.com)
@@ -15,9 +15,8 @@
 
 ## 🚀 About Me
 
-I'm a **DevOps / Software Engineer** based in Chhatrapati Sambhajinagar, India, building production-grade tools for **Kubernetes security**, **cluster observability**, and **backend automation**. I love turning complex infrastructure problems into clean, actionable CLI tools.
+I'm a **DevOps / Software Engineer** building production-grade tools for **Kubernetes security**, **cluster observability**, and **backend automation**. I love turning complex infrastructure problems into clean, actionable CLI tools.
 
-- 🔭 Currently working on: **Kube-Sec** — a Kubernetes security scanner
 - 🌱 Exploring: Go, distributed systems, and LLM-powered DevOps tooling
 - 💼 Working at **Mercor**
 - ✍️ I write about DevOps & backend engineering on [Medium](https://medium.com/@rahulbansod519)
@@ -73,15 +72,6 @@ I'm a **DevOps / Software Engineer** based in Chhatrapati Sambhajinagar, India, 
 - 🌐 Force-directed import graph & collapsible file tree — rendered as a self-contained HTML file
 - 🤖 AI-generated project summary & contributor onboarding guide (GPT-4o)
 - 📝 Optional Markdown export; supports Python, JS/TS, Go, Java, Ruby
-
----
-
-### 🔒 [Trion-Sec](https://github.com/rahulbansod519/Trion-Sec) &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-> Python-based Kubernetes security scanner — the precursor to Kube-Sec, available as a pip package.
-
-- 🔎 Scans Pods, Deployments, Services for real security risks
-- 📦 Installable via `pip install kube-sec`
 
 ---
 
